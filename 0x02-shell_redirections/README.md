@@ -1,1 +1,1 @@
-my sech
+my hard
