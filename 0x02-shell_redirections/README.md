@@ -1,1 +1,1 @@
-life is tasty
+my sech
