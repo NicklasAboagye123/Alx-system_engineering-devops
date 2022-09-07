@@ -1,1 +1,1 @@
-create
+create global
